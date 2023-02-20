@@ -12,7 +12,7 @@ using namespace std;
     }
     cout<<endl;
      cout<<"Array A2"<<endl;
-    for(int i=0;i<4;i++){
+    for(int i=0;i<5;i++){
         cout<<A2[i];
     }
     cout<<endl;
