@@ -3,7 +3,8 @@
 using namespace std;
  int main(){
    vector<int>v1;
-   v1.push_back(10);
+   v1.push_back(10);       //for(int i=0;i<=9;i++)
+                           // v1.push_back(10*(i+1))
    v1.push_back(20);
    v1.push_back(30);
    v1.push_back(40);
