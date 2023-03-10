@@ -16,7 +16,7 @@ int main(){
    }
    cout<<"Enter which position want to delet in the array:"<<endl;
    cin>>pos;
-   cout<<"Enter the Number which you want to delet in the array:"<<endl;
+   cout<<"Enter the Number which you want to delet in the array :"<<endl;
    cin>>num;
 for(int i=pos-1;i<size;i++){
     A[i]=A[i+1];
